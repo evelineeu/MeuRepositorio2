@@ -7,8 +7,8 @@ void imprimirBob(){
 }
 
 
-void imprimirAlice("Alice"){
-
+void imprimirAlice(){
+	print("Alice")
 }
 
 int main(){
