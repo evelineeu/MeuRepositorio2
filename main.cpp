@@ -7,7 +7,7 @@ void imprimirBob(){
 }
 
 
-void imprimirAlice(){
+void imprimirAlice("Alice"){
 
 }
 
