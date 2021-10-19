@@ -12,5 +12,6 @@ void imprimirAlice(){
 }
 
 int main(){
+	imprimirBob();
     return 0;
 }
